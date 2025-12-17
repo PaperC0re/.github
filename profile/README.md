@@ -1,6 +1,6 @@
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/1fa10056-c260-49c3-8a90-6fda99ce294a" />
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/35654db2-4439-44ce-be0f-9a0d74c024d5" />
 
-<img width="1510" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fab4bc14-19aa-4bf5-bb3f-b241f0f44f97" />
+<img width="1510" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9b476d68-4f3f-4ce4-8fd3-1426290aed7c" />
 
 # PaperC0re
 
@@ -12,7 +12,7 @@
 
 ## 📂 Project Structure
 
-<img width="2784" height="1536" alt="Image" src="https://github.com/user-attachments/assets/dd842c8c-d1c0-4bbd-bd82-47c8cba200c1" />
+<img width="2784" height="1536" alt="Image" src="https://github.com/user-attachments/assets/b0f5ea3d-d69e-4f9b-9993-83c5b1aa544e" />
 
 PaperC0re 조직은 크게 3가지의 핵심 저장소로 구성되어 있습니다.
 
@@ -67,6 +67,10 @@ PaperC0re 조직은 크게 3가지의 핵심 저장소로 구성되어 있습니
 
 ---
 
-## 🤝 Contributing
+## 📝 AI Prompts
 
-PaperC0re는 오픈 소스 프로젝트로, 여러분의 기여를 환영합니다. 각 저장소의 `README.md`를 참고하여 기여해 주세요.
+이 프로젝트를 진행하면서 사용된 AI 프롬프트들은 아래 링크에서 확인할 수 있습니다.
+
+- [프롬프트 설계](https://github.com/PaperC0re/.github/tree/main/profile/assets/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%84%A4%EA%B3%84)
+
+---
